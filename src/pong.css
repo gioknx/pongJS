@@ -1,0 +1,42 @@
+#player1controls{
+	margin-right: 20%;
+	margin-top: 10%;
+	font-size: 25px;
+	color: #FF0000;
+	border: 1px black solid;
+	width: 100px;
+	height: 85px;
+	vertical-align: top;
+	display: inline-block;
+}
+#player2controls{
+	margin-left: 20%;
+	margin-top: 10%;
+	font-size: 25px;
+	color: #00C;
+	border: 1px black solid;
+	width: 100px;
+	height: 85px;
+	vertical-align: top;
+	display: inline-block;
+}
+#pontos{
+	font-size: 65px;
+	height: 80px;
+	width: 180px;
+	margin-top: 50px;
+	text-align:center;
+	border: 1px black solid;
+	padding-top: 20px;
+	color: #800080;
+}
+#container{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#buttons{
+	position: absolute;
+	margin-left: 42%;
+	margin-top: 10px;	
+}
